@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a semester 5 college student from Politeknik Negeri Samarinda.<br>I've been joined the coding camp program from dicoding and take course "Frontend And Backend Developer"<br>I also has join the "Alibaba Cloud x DTS" cloud computing program</p>
+<p align="left">I'm a college student from Politeknik Negeri Samarinda.<br>I've been joined the coding camp program from dicoding and take course "Frontend And Backend Developer"<br>I also has join the "Alibaba Cloud x DTS" cloud computing program</p>
 
 ###
 
